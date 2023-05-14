@@ -1,0 +1,6 @@
+# Created at 2023-05-14T10:58:20.290
+WARNING: Unknown module: com.udacity.sercurity specified to --add-opens
+
+# Created at 2023-05-14T10:58:21.036
+Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended
+
